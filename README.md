@@ -23,6 +23,7 @@ apps.txt
 - FileZilla.app
 - Foxit PDF Reader.app
 - Google Chrome.app
+- Hidden Bar
 - KeyStore Explorer.app
 - Keyword Search.app
 - Logi Options+.app
@@ -35,6 +36,7 @@ apps.txt
 - Screen Recorder Robot Lite.app
 - Shelly.app
 - TeamViewer Host.app
+- Temp Box
 - TextEdit.app
 - TextPad.app
 - The Unarchiver.app
