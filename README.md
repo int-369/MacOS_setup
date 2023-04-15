@@ -23,7 +23,6 @@ apps.txt
 - FileZilla.app
 - Foxit PDF Reader.app
 - Google Chrome.app
-- Itsycal.app
 - KeyStore Explorer.app
 - Keyword Search.app
 - Logi Options+.app
