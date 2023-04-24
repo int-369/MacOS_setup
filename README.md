@@ -7,6 +7,12 @@
 xargs brew install < apps.txt
 ```
 
+## AppStore
+Must:
+```
+StandUp (https://getstandupapp.com/) Pavel Lobodinsky
+```
+
 ## Applications
 - batch install:
 ```
